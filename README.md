@@ -21,6 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - For the UI material [Material_UI](https://material-ui.com)
 - For deployment [Surge](https://surge.sh)
 <br />
-Visit the App now [The Venue](furry-scene.surge.sh)<br />
+Visit the App now [The Venue](http://furry-scene.surge.sh)<br />
 
 I handled this project with the instructor ***Coding Revolution*** from Udemy. <br />
