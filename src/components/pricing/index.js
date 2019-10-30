@@ -7,9 +7,9 @@ class Pricing extends Component {
     state= {
         prices: [100,150,200],
         positions: ['Balcony', 'Medium', 'Star'],
-        desc: ['asdadasdsadsa',
-                'asdasdsadsadasd',
-                'asdsadsadsadsad'],
+        desc: ['Quis autem vel eum iure reprehenderit qui in ea voluptate velit ',
+                'Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur',
+                'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit'],
         linkto:['http://sales/b','http://sales/b','http://sales/b'],
         delay:[500,0,500]
 
